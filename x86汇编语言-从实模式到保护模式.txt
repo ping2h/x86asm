@@ -1,0 +1,22 @@
+AX: accumulator
+BX: base registar
+CX: counter
+DX: data registar
+
+SP: stack pointer
+DP: data pointer
+SI: source index
+DI: destination index
+IP: instruction pointer
+SR: state registar
+
+CS: code segment
+DS: data segment
+SS: stack segment
+ES: extra segment
+
+FLAGS register
+ZF zero flag
+PF pairty flag
+CF carry flag
+etc.
